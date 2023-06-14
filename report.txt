@@ -1,0 +1,10 @@
+##### Plagarism Report #####
+Total Essays : 5
+Total Plagarism Detected : 2
+---
+Potential plagiarism detected between 'essay2.txt' and 'essay3.txt'.
+Plagarism Rate(%): 52.63%
+---
+Potential plagiarism detected between 'essay2.txt' and 'essay4.txt'.
+Plagarism Rate(%): 60.87%
+---
